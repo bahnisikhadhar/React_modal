@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+.modal{
+  position: absolute;
+  top: 8rem;
+  left: 35%;
+  height: 60vh;
+  width: 27vw;
+  background-color: aqua;
+}
+.btn{
+  padding: 1rem 1.5rem;
+  font-size: 1.5rem;
+ margin-left: 42.5%;
+ margin-top: 2rem;
+}
+.btn_container{
+  display: flex;
+  justify-content: flex-end;
+  padding: 1rem;
+}
+h1{
+  text-align: center;
+}
