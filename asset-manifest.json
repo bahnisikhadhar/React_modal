@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_modal/static/css/main.f1d5c3f6.css",
+    "main.js": "/React_modal/static/js/main.f4f0452c.js",
+    "index.html": "/React_modal/index.html",
+    "main.f1d5c3f6.css.map": "/React_modal/static/css/main.f1d5c3f6.css.map",
+    "main.f4f0452c.js.map": "/React_modal/static/js/main.f4f0452c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1d5c3f6.css",
+    "static/js/main.f4f0452c.js"
+  ]
+}
